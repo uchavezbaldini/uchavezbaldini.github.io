@@ -1,0 +1,32 @@
+---
+title: "Publications"
+---
+
+Below is a list of my publications. 
+**First author** publications are bolded.
+
+![Open access](open-access.svg){width="1cm" height="1cm"} Open access
+
+## 2022
+[**The interplay between psychopathological symptoms: transdiagnostic cross-lagged panel network model**](https://doi.org/10.1192/bjo.2022.516) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2021
+[**The relationship between cognitive functioning and psychopathology in patients with psychiatric disorders: a transdiagnostic network analysis**](https://doi.org/10.1017/s0033291721001781) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+[Resting-state brain oscillations predict cognitive function in psychiatric disorders: A transdiagnostic machine learning approach](https://doi.org/10.1016/j.nicl.2021.102617) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+
+## 2020
+
+[**Protocol Across study: longitudinal transdiagnostic cognitive functioning, psychiatric symptoms, and biological parameters in patients with a psychiatric disorder**](https://doi.org/10.1186/s12888-020-02624-x) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+[**Expressive suppression in psychosis: The association with social  context**](https://doi.org/10.1371/journal.pone.0230102) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2019
+
+[Transdiagnostic dimensions of psychosis in the Bipolar-Schizophrenia Network on Intermediate Phenotypes (B-SNIP)](https://doi.org/10.1002/wps.20607) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+
+## 2017
+
+[Modeling the Interplay Between Psychological Processes and Adverse, Stressful Contexts and Experiences in Pathways to Psychosis: An Experience Sampling Study](https://doi.org/10.1093/schbul/sbw185) ![Open access](open-access.svg){width="1cm" height="1cm"}

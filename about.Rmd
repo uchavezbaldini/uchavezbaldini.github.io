@@ -1,0 +1,228 @@
+---
+title: "About Me"
+---
+
+## Education
+
+**PhD student from the Across Consortium** 
+
+Amsterdam UMC (location Academic Medical Center), University of Amsterdam | January 2019 - Present
+
+Dissertation topic: Transdiagnostic and network approach in psychiatry
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**MSc in Clinical and Cognitive Neuroscience, specialization: Psychopathology** (*cum laude*)
+
+Maastricht University | September 2015 - September 2017
+
+Thesis: *Expressive suppression in psychosis: The association with social context*
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**BSc in Psychology and Sociology** (*summa cum laude*)
+
+Florida State University | August 2011 - August 2014
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Experience
+
+**Research Coordinator** | Amsterdam UMC, Academic Medical Center | January 2018 - December 2022
+
+I ran the day-to-day affairs of the Across study, such as administrative tasks, data management, scheduling, ordering supplies, and upkeep of research equipment and spaces. During my time, I updated protocols and research infrastructure to make them WMO, GDPR, and GCP compliant. I also began FAIRification of the study. After the first year of my coordinator position, I was offered my current PhD position.
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**Internship and Thesis Supervisor** | Amsterdam UMC, Academic Medical Center | January 2018 - May 2022
+
+I guided interns through all stages of a master thesis from finding an appropriate research question to analyses and discussion and provided them with one-on-one supervision as well as team management. I trained them how to conduct research and created training protocols, handbooks, and explanation videos on tasks for my interns.
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Conferences
+
+**Existential factors in psychiatry: A transdiagnostic network approach** (*Poster presentation*) | World Congress of Psychiatry | August 2022
+
+**Investigating the biological pathway between urbanicity and psychiatric disorders: a research proposal** (*Poster presentation*) | European College of Neuropsychopharmacology  | October 2021
+
+[Poster](https://mfr.osf.io/render?url=https://osf.io/vt4wf/?direct%26mode=render%26action=download%26mode=render) | [Abstract](https://doi.org/10.1016/j.euroneuro.2021.10.248)
+
+**The interplay between psychopathological symptoms: A transdiagnostic cross-lagged panel network model** (*Poster presentation*) | World Congress of Psychiatry | March 2021
+
+[Poster](https://mfr.osf.io/render?url=https://osf.io/7c5qy/?direct%26mode=render%26action=download%26mode=render) 
+
+**The relationship between cognitive functioning and psychopathology in patients with psychiatric disorders: a transdiagnostic network analysis** (*Poster presentation*) | European Congress of Psychiatry | July 2020
+
+[Poster](https://mfr.osf.io/render?url=https://osf.io/pj5ay/?direct%26mode=render%26action=download%26mode=render) | [Abstract](https://www.cambridge.org/core/journals/european-psychiatry/article/eposter-viewing/D36C52D45873073B3F9642A91F6EB46C)
+
+**Threat anticipation, negative affect, and psychotic experiences** (*Poster presentation*) | Schizophrenia International Research Society Conference | April 2018
+
+[Abstract](https://doi.org/10.1093/schbul/sby017.751)
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Certificates and Trainings
+
+**NFU BROK® certified** | Academic Medical Center | 2019 - 2023
+
+**Epic (EPD) certified** | Academic Medical Center | 2019
+
+**Research Data Management** | Academic Medical Center | 2019
+
+**Project Management** | Academic Medical Center | 2020
+
+[**Psychologies of Liberation**](https://www.idha-nyc.org/psychologies-of-liberation) | Institute for the Development of Human Arts | 2020 
+
+$~~~~~$ *Participated in the supplemental Project-Based Learning component and created a [syllabus](https://liberatingmentalhealth.wordpress.com/).* 
+
+[**Cultivating Community**](https://www.idha-nyc.org/cultivating-community) | Institute for the Development of Human Arts | 2022
+
+**Experience Sampling Method in Psychopathology Workshop** | Maastricht Univeristy | 2016
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Activities and Hobbies 
+Member of [Institute for the Development of Human Arts](https://www.idha-nyc.org/)
+
+Member of anti-racism groups
+
+$~~~~~$ *Helped create a [discussion guide](https://docs.google.com/document/d/104sDk0Xp1E1iKVcL44HtmKi4vc6m71ZQD3gh0nlQdEA/edit?usp=sharing) for White Innocence by Gloria Wekker*
+
+Member and volunteer onboarder for an activism and advocacy group
+
+$~~~~~$ *Assist new volunteers and liaise between third-parties and volunteers, create policies and protocols, input on content creation, facilitate project groups, consult on research activities (including work as census analyst)* 
+
+Violin and piano
+
+Walking and foraging in parks and local forests
+
+D&D (Game master)
+
+Traveling
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Skills
+
+[*Skill levels*](https://icombine.net/knowledge-base/skill-levels)*: 1) Novice, 2) Advanced Beginner, 3) Competent, 4) Proficient, 5) Expert*
+
+### General
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Writing
+
+Supervision
+
+Project management
+
+Team management
+
+Administration
+
+Content and resource creation
+
+:::
+::: {.column width="60%"}
+
+<img src="Skill levels_4.png" alt="Proficient" width="100"/> 
+
+<img src="Skill levels_4.png" alt="Proficient" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_2.png" alt="Advanced Beginner" width="100"/> 
+
+:::
+::::
+
+::: {style="margin-bottom:20px;"}
+:::
+
+### Research
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Quantitative data analysis 
+
+Information gathering and synthesis
+
+Data management
+
+:::
+::: {.column width="60%"}
+
+<img src="Skill levels_4.png" alt="Proficient" width="100"/> 
+
+<img src="Skill levels_4.png" alt="Proficient" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+:::
+::::
+
+::: {style="margin-bottom:20px;"}
+:::
+
+### Tools
+
+:::: {.columns}
+::: {.column width="40%"}
+
+Google Drive
+
+Microsoft Office
+
+SPSS
+
+R
+
+Canva
+
+GitHub
+
+:::
+::: {.column width="60%"}
+
+<img src="Skill levels_5.png" alt="Expert" width="100"/> 
+
+<img src="Skill levels_5.png" alt="Expert" width="100"/> 
+
+<img src="Skill levels_4.png" alt="Proficient" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_1.png" alt="Novice" width="100"/> 
+
+:::
+::::
+
+::: {style="margin-bottom:20px;"}
+:::
+
+### Languages
+
+English | Native (C2)
+
+Dutch | Professional working proficiency (B2/C1)
+
+Spanish | Advanced/Native (C1)
+
+Portuguese | Advanced/Native (C1)

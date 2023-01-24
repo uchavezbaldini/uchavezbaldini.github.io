@@ -1,0 +1,41 @@
+---
+title: "Home"
+---
+
+<p>
+
+Welcome! Here you can find information about me. Currently, I'm a PhD candidate at the Department of Psychiatry of the Amsterdam UMC, location Academic Medical Center. I'm finishing up my dissertation on the transdiagnostic and network approach to psychopathology in a psychiatric population.
+
+</p>
+
+<p>
+
+I have a background in clinical and social psychology and sociology and have been involved in research since 2011 when I started off as an undergraduate lab manager and research assistant. My current research uses the transdiagnostic and network approaches to investigate the interplay of various psychopathological domains. 
+
+I'm also interested in the recovery-oriented model and psychosocial interventions (e.g., social prescribing, recovery colleges, and psychosocial rehabilition), and the effect of environmental and social issues on mental health, well-being, daily functioning, and access to care, especially in marginalized populations. 
+
+Broadly, my interests lie in research and data analytics in mental health care as well as general health care and social themes and issues, such as diversity and equity and sociodemographic topics.
+
+I am looking to start a new job in from April or May 2023 as data analyst, researcher, or research coordinator in my areas of interest with a preference for remote or hybrid work in Randstad region of the Netherlands.
+
+</p>
+
+$$\\[.1cm]$$
+
+<p style="text-align: center;">
+[<img src= "linkedin-brands.svg" alt= "LinkedIn" width="40"/>](https://www.linkedin.com/in/unyoung-chavez-baldini-b13743104/)$~~$
+[<img src= "orcid-brands.svg" alt= "ORCid" width="40"/>](https://orcid.org/0000-0001-5613-513X)$~~$
+[<img src= "researchgate-brands.svg" alt= "Research Gate" width="40"/>](https://www.researchgate.net/profile/Unyoung-Chavez-Baldini)$~~$
+[<img src= "osf.svg" alt= "OSF" width="40"/>](https://osf.io/tgxfv/)$~~$
+[<img src= "google-scholar.svg" alt= "Google Scholar" width="40"/>](https://scholar.google.com.mx/citations?user=5DPS-RsAAAAJ&hl=en&oi=ao)$~~$
+[<img src= "github-brands.svg" alt= "GitHub" width="40"/>](https://github.com/uchavezbaldini)$~~$
+[<img src= "envelope-solid.svg" alt= "Email" width="40"/>](mailto:u.chavezbaldini@gmail.com)
+</p>
+
+$$\\[.1cm]$$
+
+```{r pic, echo=FALSE, out.width = '25%', fig.align='center'}
+knitr::include_graphics("UCB2022.jpg")
+```
+
+This website is built with R!

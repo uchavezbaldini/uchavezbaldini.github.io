@@ -1,0 +1,14 @@
+name: "UnYoung Chavez-Baldini"
+navbar:
+  title: "UnYoung Chavez-Baldini"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Publications"
+      href: publication.html
+output:
+  html_document:
+    theme: flatly
+    css: bootstrap.css
