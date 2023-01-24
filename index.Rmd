@@ -4,7 +4,7 @@ title: "Home"
 
 <p>
 
-Welcome! Here you can find information about me. Currently, I'm a PhD candidate at the Department of Psychiatry of the Amsterdam UMC, location Academic Medical Center. I'm finishing up my dissertation on the transdiagnostic and network approach to psychopathology in a psychiatric population.
+Welcome! Here you can find information about me. Currently, I'm a PhD candidate at the Department of Psychiatry of the Amsterdam UMC, location Academic Medical Center. My dissertation on the transdiagnostic and network approach to psychopathology in a psychiatric population.
 
 </p>
 
@@ -12,11 +12,9 @@ Welcome! Here you can find information about me. Currently, I'm a PhD candidate 
 
 I have a background in clinical and social psychology and sociology and have been involved in research since 2011 when I started off as an undergraduate lab manager and research assistant. My current research uses the transdiagnostic and network approaches to investigate the interplay of various psychopathological domains. 
 
-I'm also interested in the recovery-oriented model and psychosocial interventions (e.g., social prescribing, recovery colleges, and psychosocial rehabilition), and the effect of environmental and social issues on mental health, well-being, daily functioning, and access to care, especially in marginalized populations. 
+Broadly, my interests lie in research and data analytics in mental health care as well as general health care and social themes and issues, such as diversity and equity and sociodemographic topics. I'm also interested in the recovery-oriented model and psychosocial interventions, and the effect of environmental and social issues on mental health, well-being, daily functioning, and access to care, especially in marginalized populations. 
 
-Broadly, my interests lie in research and data analytics in mental health care as well as general health care and social themes and issues, such as diversity and equity and sociodemographic topics.
-
-I am looking to start a new job in from April or May 2023 as data analyst, researcher, or research coordinator in my areas of interest with a preference for remote or hybrid work in Randstad region of the Netherlands.
+I am looking to start a new job starting from April or May 2023 as data analyst, researcher, or research coordinator in my areas of interest with a preference for remote or hybrid work in Randstad region of the Netherlands.
 
 </p>
 
