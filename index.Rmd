@@ -4,7 +4,7 @@ title: "Home"
 
 <p>
 
-Welcome! Here you can find information about me. Currently, I'm a PhD candidate at the Department of Psychiatry of the Amsterdam UMC, location Academic Medical Center. My dissertation on the transdiagnostic and network approach to psychopathology in a psychiatric population.
+Welcome! Here you can find information about me. Currently, I'm a PhD candidate at the Department of Psychiatry of the Amsterdam UMC, location Academic Medical Center. My dissertation is on the transdiagnostic and network approach to psychopathology in a psychiatric population.
 
 </p>
 
