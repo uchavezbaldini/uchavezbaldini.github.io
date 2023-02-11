@@ -194,6 +194,8 @@ R
 
 Canva
 
+Stata
+
 GitHub
 
 :::
@@ -208,6 +210,8 @@ GitHub
 <img src="Skill levels_3.png" alt="Competent" width="100"/> 
 
 <img src="Skill levels_3.png" alt="Competent" width="100"/> 
+
+<img src="Skill levels_2.png" alt="Advanced Beginner" width="100"/>
 
 <img src="Skill levels_1.png" alt="Novice" width="100"/> 
 
