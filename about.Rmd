@@ -70,6 +70,8 @@ I guided interns through all stages of a master thesis from finding an appropria
 
 ## Certificates and Trainings
 
+**Google Data Analytics Certificate** | Coursera | 2023
+
 **NFU BROK® certified** | Academic Medical Center | 2019 - 2023
 
 **Epic (EPD) certified** | Academic Medical Center | 2019
@@ -198,6 +200,8 @@ Stata
 
 GitHub
 
+SQL
+
 :::
 ::: {.column width="60%"}
 
@@ -212,6 +216,8 @@ GitHub
 <img src="Skill levels_3.png" alt="Competent" width="100"/> 
 
 <img src="Skill levels_2.png" alt="Advanced Beginner" width="100"/>
+
+<img src="Skill levels_1.png" alt="Novice" width="100"/> 
 
 <img src="Skill levels_1.png" alt="Novice" width="100"/> 
 
