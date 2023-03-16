@@ -10,6 +10,8 @@ Amsterdam UMC (location Academic Medical Center), University of Amsterdam | Janu
 
 Dissertation topic: Transdiagnostic and network approach in psychiatry
 
+My PhD project investigated the relationships between psychopathological symptoms, cognitive function, and psychological factors, such as self-esteem and existential concerns, using the transdiagnostic and network approaches. The aim was to gain insight into dimension- or symptom-level rather than diagnostic-level relationships and elucidate potential transdiagnostic processes.
+
 ::: {style="margin-bottom:20px;"}
 :::
 
