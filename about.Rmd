@@ -8,7 +8,7 @@ title: "About Me"
 
 Amsterdam UMC (location Academic Medical Center), University of Amsterdam | January 2019 - Present
 
-Dissertation topic: Transdiagnostic and network approach in psychiatry
+Dissertation: *[Across Boundaries: Transdiagnostic and network approach in psychiatry](https://dare.uva.nl/search?field1=keyword;value1=chavez;docsPerPage=1;startDoc=6)*
 
 My PhD project investigated the relationships between psychopathological symptoms, cognitive function, and psychological factors, such as self-esteem and existential concerns, using the transdiagnostic and network approaches. The aim was to gain insight into dimension- or symptom-level rather than diagnostic-level relationships and elucidate potential transdiagnostic processes.
 
