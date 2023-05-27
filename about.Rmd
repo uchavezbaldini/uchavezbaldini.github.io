@@ -115,6 +115,33 @@ Traveling
 ::: {style="margin-bottom:50px;"}
 :::
 
+## Resource Creation
+### Work
+Psychoeducation for caregivers on psychosis
+
+Workbook on cognitive disfunction
+
+Handbook on effective participant recruitment
+
+Onboarding protocols and handbooks for interns
+
+::: {style="margin-bottom:20px;"}
+:::
+
+### Volunteer
+Book discussion guide for White Innocence by Gloria Wekker
+
+Syllabus on anti-oppression within mental healthcare
+
+Workbook on amatonormativity
+
+Census and report on international aromantic experiences
+
+Webinar on mental health care for aromantics
+
+::: {style="margin-bottom:50px;"}
+:::
+
 ## Skills
 
 [*Skill levels*](https://icombine.net/knowledge-base/skill-levels)*: 1) Novice, 2) Advanced Beginner, 3) Competent, 4) Proficient, 5) Expert*
