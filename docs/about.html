@@ -13,7 +13,7 @@
 
 <title>About Me</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -279,16 +276,17 @@ $(document).ready(function () {
 Amsterdam | January 2019 - Present</p>
 <p>Dissertation topic: Transdiagnostic and network approach in
 psychiatry</p>
-<p>My PhD project investigated the relationships between psychopathological symptoms, 
-       cognitive function, and psychological factors, such as self-esteem and existential 
-       concerns, using the transdiagnostic and network approaches. The aim was to gain insight 
-       into dimension- or symptom-level rather than diagnostic-level relationships and elucidate 
-       potential transdiagnostic processes.</p>
+<p>My PhD project investigated the relationships between
+psychopathological symptoms, cognitive function, and psychological
+factors, such as self-esteem and existential concerns, using the
+transdiagnostic and network approaches. The aim was to gain insight into
+dimension- or symptom-level rather than diagnostic-level relationships
+and elucidate potential transdiagnostic processes.</p>
 <div style="margin-bottom:20px;">
 
 </div>
-<p><strong>Research Master in Clinical and Cognitive Neuroscience, specialization:
-Psychopathology</strong> (<em>cum laude</em>)</p>
+<p><strong>Research Master in Clinical and Cognitive Neuroscience,
+specialization: Psychopathology</strong> (<em>cum laude</em>)</p>
 <p>Maastricht University | September 2015 - September 2017</p>
 <p>Thesis: <em>Expressive suppression in psychosis: The association with
 social context</em></p>
@@ -363,8 +361,8 @@ International Research Society Conference | April 2018</p>
 <div id="certificates-and-trainings" class="section level2">
 <h2>Certificates and Trainings</h2>
 <p><a
-href="https://www.coursera.org/account/accomplishments/specialization/certificate/5RNDRJ52PHB5"><strong>Google Data Analytics Certificate</strong></a> | Coursera |
-2023</p>
+href="https://www.coursera.org/account/accomplishments/specialization/certificate/5RNDRJ52PHB5"><strong>Google
+Data Analytics Certificate</strong></a> | Coursera | 2023</p>
 <p><strong>NFU BROK® certified</strong> | Academic Medical Center | 2019
 - 2023</p>
 <p><strong>Epic (EPD) certified</strong> | Academic Medical Center |
@@ -409,6 +407,30 @@ on research activities (including work as census analyst)</em></p>
 <p>Traveling</p>
 <div style="margin-bottom:50px;">
 
+</div>
+</div>
+<div id="resource-creation" class="section level2">
+<h2>Resource Creation</h2>
+<div id="work" class="section level3">
+<h3>Work</h3>
+<p>Psychoeducation for caregivers on psychosis</p>
+<p>Workbook on cognitive disfunction</p>
+<p>Handbook on effective participant recruitment</p>
+<p>Onboarding protocols and handbooks for interns</p>
+<div style="margin-bottom:20px;">
+
+</div>
+</div>
+<div id="volunteer" class="section level3">
+<h3>Volunteer</h3>
+<p>Book discussion guide for White Innocence by Gloria Wekker</p>
+<p>Syllabus on anti-oppression within mental healthcare</p>
+<p>Workbook on amatonormativity</p>
+<p>Census and report on international aromantic experiences</p>
+<p>Webinar on mental health care for aromantics</p>
+<div style="margin-bottom:50px;">
+
+</div>
 </div>
 </div>
 <div id="skills" class="section level2">
@@ -465,7 +487,7 @@ Proficient, 5) Expert</em></p>
 <p>SPSS</p>
 <p>R</p>
 <p>Canva</p>
-<p>Stata</p>       
+<p>Stata</p>
 <p>GitHub</p>
 <p>SQL</p>
 </div><div class="column" style="width:60%;">
@@ -474,7 +496,7 @@ Proficient, 5) Expert</em></p>
 <p><img src="Skill%20levels_4.png" alt="Proficient" width="100"/></p>
 <p><img src="Skill%20levels_3.png" alt="Competent" width="100"/></p>
 <p><img src="Skill%20levels_3.png" alt="Competent" width="100"/></p>
-<p><img src="Skill%20levels_2.png" alt="Advanced beginner" width="100"/></p>
+<p><img src="Skill%20levels_2.png" alt="Advanced Beginner" width="100"/></p>
 <p><img src="Skill%20levels_1.png" alt="Novice" width="100"/></p>
 <p><img src="Skill%20levels_1.png" alt="Novice" width="100"/></p>
 </div>

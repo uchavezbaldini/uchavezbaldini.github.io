@@ -13,7 +13,7 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -275,9 +272,8 @@ $(document).ready(function () {
 <p>
 <p>Welcome! Here you can find information about me. Currently, I’m a PhD
 candidate at the Department of Psychiatry of the Amsterdam UMC, location
-Academic Medical Center. My dissertation is on the 
-transdiagnostic and network approach to psychopathology in a psychiatric
-population.</p>
+Academic Medical Center. My dissertation is on the transdiagnostic and
+network approach to psychopathology in a psychiatric population.</p>
 </p>
 <p>
 <p>I have a background in clinical and social psychology and sociology
@@ -287,12 +283,16 @@ uses the transdiagnostic and network approaches to investigate the
 interplay of various psychopathological domains.</p>
 <p>Broadly, my interests lie in research and data analytics in mental
 health care as well as general health care and social themes and issues,
-such as diversity and equity and sociodemographic topics. I’m also interested in the recovery-oriented model and psychosocial
-interventions, and the effect of environmental and social
-issues on mental health, well-being, daily functioning, and access to
-care, especially in marginalized populations. My goal is to get involved in research that has a practical/applied, educational, and/or policy impact.</p>
-<p>I am looking to start a new job starting from July 2023 in research, education, and/or data analytics 
-in my areas of interest with a preference for hybrid work in Randstad region of the Netherlands.</p>
+such as diversity and equity and sociodemographic topics. I’m also
+interested in the recovery-oriented model and psychosocial
+interventions, and the effect of environmental and social issues on
+mental health, well-being, daily functioning, and access to care,
+especially in marginalized populations. My goal is to get involved in
+research that has a practical/applied, educational, and/or policy
+impact.</p>
+<p>I am looking to start a new job starting from July 2023 in research,
+education, and/or data analytics in my areas of interest with a
+preference for hybrid work in Randstad region of the Netherlands.</p>
 </p>
 <p><span class="math display">\[\\[.1cm]\]</span></p>
 <p style="text-align: center;">
