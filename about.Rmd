@@ -6,7 +6,7 @@ title: "About Me"
 
 **PhD student from the Across Consortium** 
 
-Amsterdam UMC (location Academic Medical Center), University of Amsterdam | January 2019 - Present
+Amsterdam UMC (location Academic Medical Center), University of Amsterdam | January 2019 - June 2023
 
 Dissertation: *[Across Boundaries: Transdiagnostic and network approach in psychiatry](https://dare.uva.nl/search?field1=keyword;value1=chavez;docsPerPage=1;startDoc=6)*
 
@@ -31,11 +31,11 @@ Florida State University | August 2011 - August 2014
 ::: {style="margin-bottom:50px;"}
 :::
 
-## Experience
+## Work Experience
 
 **Research Coordinator** | Amsterdam UMC, Academic Medical Center | January 2018 - December 2022
 
-I ran the day-to-day affairs of the Across study, such as administrative tasks, data management, scheduling, ordering supplies, and upkeep of research equipment and spaces. During my time, I updated protocols and research infrastructure to make them WMO, GDPR, and GCP compliant. I also began FAIRification of the study. After the first year of my coordinator position, I was offered my current PhD position.
+I ran the day-to-day affairs of the Across study, such as administrative tasks, data management, scheduling, ordering supplies, and upkeep of research equipment and spaces. During my time, I updated protocols and research infrastructure to make them WMO, GDPR, and GCP compliant. I also began FAIRification of the study. After the first year of my coordinator position, I was offered my PhD position.
 
 ::: {style="margin-bottom:20px;"}
 :::
@@ -43,6 +43,20 @@ I ran the day-to-day affairs of the Across study, such as administrative tasks, 
 **Internship and Thesis Supervisor** | Amsterdam UMC, Academic Medical Center | January 2018 - May 2022
 
 I guided interns through all stages of a master thesis from finding an appropriate research question to analyses and discussion and provided them with one-on-one supervision as well as team management. I trained them how to conduct research and created training protocols, handbooks, and explanation videos on tasks for my interns.
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**Guest/Substitute Teacher** | School District of Lee County, Florida; Kelly Education Staffing, Polk County School District, Florida | September 2017 – December 2017; November 2014 - June 2015
+
+I replaced teachers during their absence and worked at elementary and middle schools. I executed lesson plans provided by the absent teacher, successfully managed student behavior and implemented methods across subjects and grade levels. I quickly adapted to different classroom dynamics and changing circumstances, including unforeseen schedule changes and last-minute assignments.
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**Mentor & Tutor** | Learning Resource Center, Mulberry Middle School, Florida |November 2014 - June 2015
+
+I tutored migrant and low socioeconomic students with homework and projects on various academic topics. I also advised them on education and professional matters and counseled students on issues related to adolescence and migrant/low SES challenges based on my own lived experience.
 
 ::: {style="margin-bottom:50px;"}
 :::
@@ -74,19 +88,27 @@ I guided interns through all stages of a master thesis from finding an appropria
 
 [**Google Data Analytics Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/5RNDRJ52PHB5) | Coursera | 2023
 
-**NFU BROK® certified** | Academic Medical Center | 2019 - 2023
+**C1 Conversation Dutch Language Course** | Babel | 2023
 
-**Epic (EPD) certified** | Academic Medical Center | 2019
+**Cultivating Community** | Institute for the Development of Human Arts | 2022
 
-**Research Data Management** | Academic Medical Center | 2019
+**Psychologies of Liberation** | Institute for the Development of Human Arts | 2020 
 
-**Project Management** | Academic Medical Center | 2020
+$~~~~~$ *Participated in the supplemental Project-Based Learning component.* 
 
-[**Psychologies of Liberation**](https://www.idha-nyc.org/psychologies-of-liberation) | Institute for the Development of Human Arts | 2020 
+**Didactical Skills** | Doctoral School, Amsterdam UMC | 2020
 
-$~~~~~$ *Participated in the supplemental Project-Based Learning component and created a [syllabus](https://docs.google.com/document/d/1BlGIn8yGh_bGsi9E30hM-gAX37eY5zcd9Kpi6GCZ5Rg/edit?usp=sharing).* 
+**Project Management** | Doctoral School, Amsterdam UMC | 2020
 
-[**Cultivating Community**](https://www.idha-nyc.org/cultivating-community) | Institute for the Development of Human Arts | 2022
+**NFU BROK® certified** | Academic Medical Center, Amsterdam UMC | 2019 - 2023
+
+**Epic (EPD) certified** | Academic Medical Center, Amsterdam UMC | 2019
+
+**Research Data Management** | Academic Medical Center, Amsterdam UMC | 2019
+
+**Advanced (B2) Dutch Language Course** | INTT, University of Amsterdam | 2019
+
+**Pre-Advanced (B1) Dutch Language Course** | INTT, University of Amsterdam | 2018
 
 **Experience Sampling Method in Psychopathology Workshop** | Maastricht Univeristy | 2016
 
@@ -96,13 +118,13 @@ $~~~~~$ *Participated in the supplemental Project-Based Learning component and c
 ## Activities and Hobbies 
 Member of [Institute for the Development of Human Arts](https://www.idha-nyc.org/)
 
+Member and volunteer onboarder for [AUREA](aromanticism.org)
+
+$~~~~~$ *Assist new volunteers and liaise between third-parties and volunteers, create policies and protocols, input on content creation, facilitate project groups, consult on research activities (e.g., census analyst, AroUQ, Stanford PRIDEnet), community outreach, connect and collaborate with other organizations* 
+
 Member of anti-racism groups
 
-$~~~~~$ *Helped create a [discussion guide](https://docs.google.com/document/d/104sDk0Xp1E1iKVcL44HtmKi4vc6m71ZQD3gh0nlQdEA/edit?usp=sharing) for White Innocence by Gloria Wekker*
-
-Member and volunteer onboarder for an activism and advocacy group
-
-$~~~~~$ *Assist new volunteers and liaise between third-parties and volunteers, create policies and protocols, input on content creation, facilitate project groups, consult on research activities (including work as census analyst)* 
+$~~~~~$ *Facilitate meetings, provide materials for group discussion, give presentations, coordinate events and activities*
 
 Violin and piano
 
@@ -135,9 +157,9 @@ Syllabus on anti-oppression within mental healthcare
 
 Workbook on amatonormativity
 
-Census and report on international aromantic experiences
+Census and report on international experiences of a LGBTQIA+ population
 
-Webinar on mental health care for aromantics
+Webinar on mental health care for a LGBTQIA+ population
 
 ::: {style="margin-bottom:50px;"}
 :::

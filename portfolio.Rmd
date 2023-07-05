@@ -1,0 +1,61 @@
+---
+title: "Portfolio"
+---
+
+Here are some examples of my work.
+
+## Data Analyses
+
+[Mixed Graphical Model](https://github.com/uchavezbaldini/mgm_across_study)
+
+[Capstone Google Data Analytics Specialization](https://github.com/uchavezbaldini/cyclicist_case_study)
+
+AUREA 2020 Census Report <embed src="assets/Aro+Census+2020+Report" type="application/pdf" width="100%" height="300px" />
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Resource Creation
+
+[Discussion guide](https://docs.google.com/document/d/104sDk0Xp1E1iKVcL44HtmKi4vc6m71ZQD3gh0nlQdEA/edit?usp=sharing) for *White Innocence* by Gloria Wekker
+
+Challenging Amatonormativity 
+<embed src="assets/Challenging Amatonormativity- A Beginner's Guide" type="application/pdf" width="100%" height="300px" />
+
+Aromantic Competent Care Webinar 
+<embed src="assets/Aromantic Competent Care" type="application/pdf" width="100%" height="300px" />
+
+[Towards Liberating Mental Health Care Syllabus](https://docs.google.com/document/d/1BlGIn8yGh_bGsi9E30hM-gAX37eY5zcd9Kpi6GCZ5Rg/edit?usp=sharing)
+
+::: {style="margin-bottom:50px;"}
+:::
+
+## Publications
+
+**First author** publications are bolded.
+
+![Open access](open-access.svg){width="1cm" height="1cm"} Open access
+
+## 2022
+
+[**The interplay between psychopathological symptoms: transdiagnostic cross-lagged panel network model**](https://doi.org/10.1192/bjo.2022.516) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2021
+
+[**The relationship between cognitive functioning and psychopathology in patients with psychiatric disorders: a transdiagnostic network analysis**](https://doi.org/10.1017/s0033291721001781) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+[Resting-state brain oscillations predict cognitive function in psychiatric disorders: A transdiagnostic machine learning approach](https://doi.org/10.1016/j.nicl.2021.102617) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2020
+
+[**Protocol Across study: longitudinal transdiagnostic cognitive functioning, psychiatric symptoms, and biological parameters in patients with a psychiatric disorder**](https://doi.org/10.1186/s12888-020-02624-x) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+[**Expressive suppression in psychosis: The association with social context**](https://doi.org/10.1371/journal.pone.0230102) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2019
+
+[Transdiagnostic dimensions of psychosis in the Bipolar-Schizophrenia Network on Intermediate Phenotypes (B-SNIP)](https://doi.org/10.1002/wps.20607) ![Open access](open-access.svg){width="1cm" height="1cm"}
+
+## 2017
+
+[Modeling the Interplay Between Psychological Processes and Adverse, Stressful Contexts and Experiences in Pathways to Psychosis: An Experience Sampling Study](https://doi.org/10.1093/schbul/sbw185) ![Open access](open-access.svg){width="1cm" height="1cm"}

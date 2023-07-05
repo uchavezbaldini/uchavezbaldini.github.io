@@ -6,8 +6,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Publications"
-      href: publication.html
+    - text: "Portfolio"
+      href: portfolio.html
 output:
   html_document:
     theme: flatly
