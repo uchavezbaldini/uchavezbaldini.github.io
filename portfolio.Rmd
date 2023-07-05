@@ -10,7 +10,7 @@ Here are some examples of my work.
 
 [Capstone Google Data Analytics Specialization](https://github.com/uchavezbaldini/cyclicist_case_study)
 
-AUREA 2020 Census Report <embed src="assets/Aro+Census+2020+Report.pdf" type="application/pdf" width="100%" height="300px" />
+AUREA 2020 Census Report <embed src="Aro+Census+2020+Report.pdf" type="application/pdf" width="100%" height="300px" />
 
 ::: {style="margin-bottom:50px;"}
 :::
@@ -20,10 +20,10 @@ AUREA 2020 Census Report <embed src="assets/Aro+Census+2020+Report.pdf" type="ap
 [Discussion guide](https://docs.google.com/document/d/104sDk0Xp1E1iKVcL44HtmKi4vc6m71ZQD3gh0nlQdEA/edit?usp=sharing) for *White Innocence* by Gloria Wekker
 
 Challenging Amatonormativity 
-<embed src="assets/Challenging Amatonormativity- A Beginner's Guide.pdf" type="application/pdf" width="100%" height="300px" />
+<embed src="Challenging Amatonormativity- A Beginner's Guide.pdf" type="application/pdf" width="100%" height="300px" />
 
 Aromantic Competent Care Webinar 
-<embed src="assets/Aromantic Competent Care.pdf" type="application/pdf" width="100%" height="300px" />
+<embed src="Aromantic Competent Care.pdf" type="application/pdf" width="100%" height="300px" />
 
 [Towards Liberating Mental Health Care Syllabus](https://docs.google.com/document/d/1BlGIn8yGh_bGsi9E30hM-gAX37eY5zcd9Kpi6GCZ5Rg/edit?usp=sharing)
 
