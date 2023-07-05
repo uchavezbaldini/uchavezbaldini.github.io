@@ -19,9 +19,7 @@ I am looking to start a new job in research, education, and/or data analytics in
 $$\\[.1cm]$$
 
 <p style="text-align: center;">
-
 [<img src="linkedin-brands.svg" alt="LinkedIn" width="40"/>](https://www.linkedin.com/in/unyoung-chavez-baldini-b13743104/)$~~$ [<img src="orcid-brands.svg" alt="ORCid" width="40"/>](https://orcid.org/0000-0001-5613-513X)$~~$ [<img src="researchgate-brands.svg" alt="Research Gate" width="40"/>](https://www.researchgate.net/profile/Unyoung-Chavez-Baldini)$~~$ [<img src="osf.svg" alt="OSF" width="40"/>](https://osf.io/tgxfv/)$~~$ [<img src="google-scholar.svg" alt="Google Scholar" width="40"/>](https://scholar.google.com.mx/citations?user=5DPS-RsAAAAJ&hl=en&oi=ao)$~~$ [<img src="github-brands.svg" alt="GitHub" width="40"/>](https://github.com/uchavezbaldini)$~~$ [<img src="envelope-solid.svg" alt="Email" width="40"/>](mailto:u.chavezbaldini@gmail.com)
-
 </p>
 
 $$\\[.1cm]$$
