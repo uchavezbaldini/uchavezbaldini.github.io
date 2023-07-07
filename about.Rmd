@@ -4,13 +4,13 @@ title: "About Me"
 
 ## Education
 
-**PhD student from the Across Consortium** 
+**Doctoral Degree of Philosophy (PhD) from the Faculty of Medicine** 
 
 Amsterdam UMC (location Academic Medical Center), University of Amsterdam | January 2019 - June 2023
 
 Dissertation: *[Across Boundaries: Transdiagnostic and network approach in psychiatry](https://dare.uva.nl/search?field1=keyword;value1=chavez;docsPerPage=1;startDoc=6)*
 
-My PhD project investigated the relationships between psychopathological symptoms, cognitive function, and psychological factors, such as self-esteem and existential concerns, using the transdiagnostic and network approaches. The aim was to gain insight into dimension- or symptom-level rather than diagnostic-level relationships and elucidate potential transdiagnostic processes.
+My PhD project investigated the relationships between psychopathological symptoms, cognitive function, and psychological factors, such as self-esteem and existential concerns, using the transdiagnostic and network approaches. The aim was to gain insight into dimension- or symptom-level relationships and elucidate potential transdiagnostic processes within psychopathology. I used network analyses, mixed graphical modeling, and cross-lagged modeling to investigate my research questions. 
 
 ::: {style="margin-bottom:20px;"}
 :::
@@ -31,32 +31,93 @@ Florida State University | August 2011 - August 2014
 ::: {style="margin-bottom:50px;"}
 :::
 
-## Work Experience
+## Work and Internship Experience
 
 **Research Coordinator** | Amsterdam UMC, Academic Medical Center | January 2018 - December 2022
 
-I ran the day-to-day affairs of the Across study, such as administrative tasks, data management, scheduling, ordering supplies, and upkeep of research equipment and spaces. During my time, I updated protocols and research infrastructure to make them WMO, GDPR, and GCP compliant. I also began FAIRification of the study. After the first year of my coordinator position, I was offered my PhD position.
+- Coordinated a department-wide psychiatry study with >1000 patients and 600 variables
+  - Managed and planned projects
+  - Organized study activities
+- Ran day-to-day affairs of the Across study: 
+  - Administration and scheduling
+  - Maintained research equipment, supplies, and spaces
+- Updated protocols and research infrastructure
+  - Ensured compliance with WMO, GDPR, and GCP regulations
+- Initiated FAIRification of the study
+- Performed research activities throughout the research cycle
+  - Developed research questions and conducted literature review 
+  - Collected, managed, and analyzed data in R and SPSS (e.g., frequencies, regressions, network analyses)
+  - Reported of results (including scientific publications) 
+- Offered a PhD position after one year in the coordinator role
 
 ::: {style="margin-bottom:20px;"}
 :::
 
 **Internship and Thesis Supervisor** | Amsterdam UMC, Academic Medical Center | January 2018 - May 2022
 
-I guided interns through all stages of a master thesis from finding an appropriate research question to analyses and discussion and provided them with one-on-one supervision as well as team management. I trained them how to conduct research and created training protocols, handbooks, and explanation videos on tasks for my interns.
+- Guided interns through all stages of a master thesis
+  - Assisted in finding an appropriate research question
+  - Provided feedback on content and guidance for analyses and discussion
+- Offered one-on-one and group supervision to interns
+- Managed intern teams
+  - Interviewing and recruitment
+  - Administration and scheduling
+  - Provided extensive onboarding and training
+  -Assigned tasks to interns and provided instructions
+- Created training protocols, handbooks, and explanation videos
 
+::: {style="margin-bottom:20px;"}
+:::
+
+**Graduate Research Intern** | The Interdisciplinary Center Psychopathology and Emotion Regulation, UMCG | November 2016 - August 2017
+
+- Executed a research study that led to a master's thesis and eventually a publication
+  - Developed research question and conducted literature review
+  - Prepared and conducted analyses on experience sampling method (ESM) data in Stata and R (e.g., frequencies, data reduction, multilevel modeling)
+  - Reported results
+  
+::: {style="margin-bottom:20px;"}
+:::
+  
+**Research Assistant** | Department of Psychiatry and Psychology, Maastricht University | April 2016 - July 2016
+
+- Performed data activities
+  - Checked and managed data
+  - Conducted multilevel analyses in Stata and MPlus
+  - Reported results
+  
 ::: {style="margin-bottom:20px;"}
 :::
 
 **Guest/Substitute Teacher** | School District of Lee County, Florida; Kelly Education Staffing, Polk County School District, Florida | September 2017 – December 2017; November 2014 - June 2015
 
-I replaced teachers during their absence and worked at elementary and middle schools. I executed lesson plans provided by the absent teacher, successfully managed student behavior and implemented methods across subjects and grade levels. I quickly adapted to different classroom dynamics and changing circumstances, including unforeseen schedule changes and last-minute assignments.
+- Replaced teachers during their absence and worked at elementary and middle schools
+- Executed lesson plans provided by the absent teacher 
+- Successfully managed student behavior and implemented methods across subjects and grade levels
+- Quickly adapted to different classroom dynamics and changing circumstances, including unforeseen schedule changes and last-minute assignments
 
 ::: {style="margin-bottom:20px;"}
 :::
 
 **Mentor & Tutor** | Learning Resource Center, Mulberry Middle School, Florida |November 2014 - June 2015
 
-I tutored migrant and low socioeconomic students with homework and projects on various academic topics. I also advised them on education and professional matters and counseled students on issues related to adolescence and migrant/low SES challenges based on my own lived experience.
+- Tutored migrant and low socioeconomic students with homework and projects on various academic topics
+- Advised them on education and professional matters  
+- Counseled students on issues related to adolescence and migrant/low SES challenges based on my own lived experience
+
+::: {style="margin-bottom:20px;"}
+:::
+
+**Lab Manager and Research Assistant** | Department of Psychology, Florida State University | September 2011 - August 2014
+
+- Managed organizational and research lab tasks
+  - Scheduling, coordination, and administration of research materials, labs, and participants
+  - Contacted and interviewed lab candidates 
+  - Trained and coordinated other research assistants
+- Performed research activities
+  - Created and administered questionnaires and behavioral tasks
+  - Conducted literature reviews
+  - Managed and analyzed quantitative data in SPSS and coded qualitative data using content analysis
 
 ::: {style="margin-bottom:50px;"}
 :::
@@ -118,13 +179,24 @@ $~~~~~$ *Participated in the supplemental Project-Based Learning component.*
 ## Activities and Hobbies 
 Member of [Institute for the Development of Human Arts](https://www.idha-nyc.org/)
 
-Member and volunteer onboarder for [AUREA](aromanticism.org)
+- Participate in meetings and courses
+- Contribute to projects
+- Network with an international group of professionals, researchers, activists, survivors, service users, and others interested in Transformative Mental Health
 
-$~~~~~$ *Assist new volunteers and liaise between third-parties and volunteers, create policies and protocols, input on content creation, facilitate project groups, consult on research activities (e.g., census analyst, AroUQ, Stanford PRIDEnet), community outreach, connect and collaborate with other organizations* 
+
+Member and volunteer onboarder for [AUREA](https://www.aromanticism.org/)
+
+- Assist new volunteers and liaise between third-parties and volunteers
+- Create policies and protocols and input on content creation
+- Facilitate project groups and facilitate and participate in (livestream) panels or round-table discussions during conferences, fundraisers or other awareness-raising events 
+- Consult on and contribute to research activities (e.g., census analyst, AroUQ, Stanford PRIDEnet)
+- Community outreach and connect and collaborate with other organizations 
 
 Member of anti-racism groups
 
-$~~~~~$ *Facilitate meetings, provide materials for group discussion, give presentations, coordinate events and activities*
+- Facilitate meetings and give presentations
+- Provide materials for group discussion
+- Coordinate events and activities*
 
 Violin and piano
 
